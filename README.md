@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![](Resources\Deliverable1.png)
+![](Resources/Deliverable1.png)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Ground clearence, vehicle length, and the intercept provided a non-random amount of variance to the mpg values.
@@ -15,14 +15,14 @@ The r-squared values indicate that this model is predictive of MechaCar prototyp
 
 ## Summary Statistics on Suspension Coils
 
-![](Resources\Deliverable2.png)
+![](Resources/Deliverable2.png)
 
 ### Does the current manufacturing data meet the design specification for all manufacturing lots in total and each lot individually? Why or why not?
 The overal variance < 100 for all three lots taken together, but taken individually lot 3's variance is significantly higher.
 
 ## T-Tests on Suspension Coils
 
-![](Resources\Deliverable2.png)
+![](Resources/Deliverable3.png)
 
 The p-value is above .05 for Lot 1 and Lot 2, but it is a lower value for Lot 3.
 
